@@ -1,0 +1,8 @@
+D:\PRO1\Drugi\Drugi\bin\Debug\Drugi.exe.config
+D:\PRO1\Drugi\Drugi\bin\Debug\Drugi.exe
+D:\PRO1\Drugi\Drugi\bin\Debug\Drugi.pdb
+D:\PRO1\Drugi\Drugi\obj\Debug\Drugi.csproj.AssemblyReference.cache
+D:\PRO1\Drugi\Drugi\obj\Debug\Drugi.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\Drugi\Drugi\obj\Debug\Drugi.csproj.CoreCompileInputs.cache
+D:\PRO1\Drugi\Drugi\obj\Debug\Drugi.exe
+D:\PRO1\Drugi\Drugi\obj\Debug\Drugi.pdb
