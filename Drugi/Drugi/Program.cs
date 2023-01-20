@@ -10,7 +10,14 @@ namespace Drugi
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ojla zivjo");
+            Console.WriteLine(" Stari Donald farmo ima");
+            Console.WriteLine("IAIAO");
+            Console.WriteLine("na tej farmi osla dva");
+            Console.WriteLine("IAIAO");
+
+
+
+
         }
     }
 }
