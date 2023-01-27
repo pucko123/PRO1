@@ -35,9 +35,9 @@ namespace NapadNaTrst
         {
             ContentControl sovražnik = new ContentControl();
             sovražnik.Template = Resources["predlogaSovražnika"] as ControlTemplate;
-            AnimirajSovražnika(sovražnik, 0, (int)(igralnidel.ActualWidth - 100), "(Canvas.Left");
-            int višina=(int)(igralnidel.ActualHeight - 100);
-            AnimirajSovražnika(sovražnik, r.Next(višina), r.Next(višina), "(Canvas.Top");
+            AnimirajSovražnika(sovražnik, 0, (int)(igralnidel.ActualWidth - 100), "(Canvas.Left)");
+            int višina = (int)(igralnidel.ActualHeight - 100);
+            AnimirajSovražnika(sovražnik, r.Next(višina), r.Next(višina), "(Canvas.Top)");
             igralnidel.Children.Add(sovražnik);
         }
 
@@ -56,6 +56,8 @@ namespace NapadNaTrst
                 Duration = new Duration(TimeSpan.FromSeconds(r.Next(4, 6)))
 
             };
+
+
             PropertyPath x = new PropertyPath(v3);
             Storyboard.SetTarget(animacija, sovražnik);
             Storyboard.SetTargetProperty(animacija, x);
@@ -63,3 +65,5 @@ namespace NapadNaTrst
             zgodba.Begin();
 
         }
+    }
+}

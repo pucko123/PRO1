@@ -1,0 +1,8 @@
+D:\PRO1\VajeIzpis\VajeIzpis\obj\Debug\VajeIzpis.csproj.AssemblyReference.cache
+D:\PRO1\VajeIzpis\VajeIzpis\obj\Debug\VajeIzpis.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\VajeIzpis\VajeIzpis\obj\Debug\VajeIzpis.csproj.CoreCompileInputs.cache
+D:\PRO1\VajeIzpis\VajeIzpis\bin\Debug\VajeIzpis.exe.config
+D:\PRO1\VajeIzpis\VajeIzpis\bin\Debug\VajeIzpis.exe
+D:\PRO1\VajeIzpis\VajeIzpis\bin\Debug\VajeIzpis.pdb
+D:\PRO1\VajeIzpis\VajeIzpis\obj\Debug\VajeIzpis.exe
+D:\PRO1\VajeIzpis\VajeIzpis\obj\Debug\VajeIzpis.pdb
