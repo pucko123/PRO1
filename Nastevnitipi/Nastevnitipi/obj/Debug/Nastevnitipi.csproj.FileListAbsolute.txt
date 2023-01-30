@@ -1,0 +1,8 @@
+D:\PRO1\Nastevnitipi\Nastevnitipi\obj\Debug\Nastevnitipi.csproj.AssemblyReference.cache
+D:\PRO1\Nastevnitipi\Nastevnitipi\obj\Debug\Nastevnitipi.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\Nastevnitipi\Nastevnitipi\obj\Debug\Nastevnitipi.csproj.CoreCompileInputs.cache
+D:\PRO1\Nastevnitipi\Nastevnitipi\bin\Debug\Nastevnitipi.exe.config
+D:\PRO1\Nastevnitipi\Nastevnitipi\bin\Debug\Nastevnitipi.exe
+D:\PRO1\Nastevnitipi\Nastevnitipi\bin\Debug\Nastevnitipi.pdb
+D:\PRO1\Nastevnitipi\Nastevnitipi\obj\Debug\Nastevnitipi.exe
+D:\PRO1\Nastevnitipi\Nastevnitipi\obj\Debug\Nastevnitipi.pdb

@@ -38,6 +38,11 @@ namespace VajeIzpis
             Console.WriteLine("c1={0,20:f2}", c1);
             Console.WriteLine("d1={0,20:f2}", d1);
             Console.WriteLine("e1={0,20:f2}", e1); 
+            
+            int znak  = '?';
+            int 
+
+         
 
 
             Console.ReadLine();
